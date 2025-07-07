@@ -14,6 +14,7 @@ Each file is named by day and topic. Example:
 - Strings and lists
 - Matrices and nested loops
 - Functions and logic puzzles
+- Recursion
 
 This repo will keep growing as I practice more.
 ---
